@@ -42,4 +42,4 @@ Review the results to gain insights into Adidas' sales performance in the US.
 
 **Contributors:**
 
-[Kshitij Tiwari]
+Kshitij Tiwari
