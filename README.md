@@ -2,10 +2,12 @@
 In-depth sales analysis of Adidas product sales in the US for the years 2020 and 2021
 Adidas US Sales Analysis
 
-**Overview**
+**Overview:**
+
 This repository contains SQL scripts for analyzing Adidas sales data in the United States. The dataset used in these scripts provides information on sales volume, revenue, and profitability across different locations, retailers, products, and sales methods.
 
-**Dataset**
+**Dataset:**
+
 The dataset, named "Adidas US Sales Datasets_", includes the following columns:
 
 * Retailer_ID: Identifier for the retailer
@@ -18,7 +20,8 @@ The dataset, named "Adidas US Sales Datasets_", includes the following columns:
 * Total_Sales: Total sales revenue
 * Operating_Profit: Operating profit generated
 
-**Analysis Queries**
+**Analysis Queries:**
+
 The SQL scripts in this repository perform various analyses on the Adidas US sales dataset, including:
 
 * Overall sales by state, retailer, product, and region
@@ -26,9 +29,10 @@ The SQL scripts in this repository perform various analyses on the Adidas US sal
 * Breakdown of sales by city, state, and region
 * Identification of top-selling products in specific cities, states, and regions
 * Yearly and monthly sales analysis
-* Evaluation of sales performance in August, including top-selling products, best- performing retailers, and preferred sales methods
+* Evaluation of sales performance in August, including top-selling products, best-performing retailers, and preferred sales methods
 
-**Usage**
+**Usage:**
+
 To use these SQL scripts, follow these steps:
 
 1. Ensure you have access to an SQL database that contains the Adidas US sales dataset.
@@ -36,5 +40,6 @@ To use these SQL scripts, follow these steps:
 3. Run the scripts against the dataset to perform the desired analyses.
 Review the results to gain insights into Adidas' sales performance in the US.
 
-**Contributors**
+**Contributors:**
+
 [Kshitij Tiwari]
