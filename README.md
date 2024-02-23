@@ -53,7 +53,7 @@ Profit & Geographical Sales Dashboard:
 * Product sales in the top 10 states, divided by product type 
 * Product sales in the top 10 cities, divided by product type
 
-Tableau Dashboards
+[Dashboard Link](https://public.tableau.com/app/profile/kshitij.tiwari4082/viz/Adidas_Sales_Analysis_17085614917400/GeographicalSalesAnalysis?publish=yes)
 
 **Usage:**
 
