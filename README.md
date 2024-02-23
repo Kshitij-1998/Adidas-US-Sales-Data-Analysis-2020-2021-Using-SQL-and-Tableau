@@ -39,19 +39,19 @@ Sales Timeline Analysis:
 * Bubble chart for sales by each retailer
 * Stacked bar chart for sales by each retailer for 2020 and 2021
 * Pie Chart for sales method
-* Bar graph for profit earned from each product, with division by sales method
+* Bar graph for profit earned from each product type, with division by sales method
 * Bar chart divided by sales method for product sales for each month (Jan 2020 to Dec 2021)
-* Line Graph to show the pattern of sales over time between January, 2020 to December, 2021
+* Line Graph to show the pattern of sales over time between January 2020 to December 2021
 * Overall sales for each state
 
 
 Profit & Geographical Sales Dashboard:
 * Bubble chart for sales by region
-* Horizontal bar chart for sales by product
+* Bar graph showing overall sales for each US state
+* Horizontal bar chart for sales by product type
 * Bar graph for profit earned from each product, with division by sales method
-* Overall sales for each state
-* Product sales in the top 10 states, divided by product
-* Product sales in the top 10 cities, divided by product
+* Product sales in the top 10 states, divided by product type 
+* Product sales in the top 10 cities, divided by product type
 
 Tableau Dashboards
 
@@ -59,10 +59,9 @@ Tableau Dashboards
 
 To use these SQL scripts, follow these steps:
 
-1. Ensure you have access to an SQL database that contains the Adidas US sales dataset.
+1. Ensure you can access an SQL database containing the Adidas US sales dataset.
 2. Open each SQL script in your preferred SQL query editor or environment.
 3. Run the scripts against the dataset to perform the desired analyses.
-Review the results to gain insights into Adidas' sales performance in the US.
 
 **Contributors:**
 
