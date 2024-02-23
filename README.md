@@ -45,7 +45,7 @@ This repository also includes two Tableau dashboards providing visualisations an
 * Overall sales for each state
 
 
-[Dashboard Link](https://public.tableau.com/app/profile/kshitij.tiwari4082/viz/Adidas_Sales_Analysis_17085614917400/SalesAnalysis)
+[Timeline Dashboard Link](https://public.tableau.com/app/profile/kshitij.tiwari4082/viz/Adidas_Sales_Analysis_17085614917400/SalesAnalysis)
 
 *Profit & Geographical Sales Dashboard:*
 * Bubble chart for sales by region
@@ -55,7 +55,7 @@ This repository also includes two Tableau dashboards providing visualisations an
 * Product sales in the top 10 states, divided by product type 
 * Product sales in the top 10 cities, divided by product type
 
-[Dashboard Link](https://public.tableau.com/app/profile/kshitij.tiwari4082/viz/Adidas_Sales_Analysis_17085614917400/GeographicalSalesAnalysis?publish=yes)
+[Sales Dashboard Link](https://public.tableau.com/app/profile/kshitij.tiwari4082/viz/Adidas_Sales_Analysis_17085614917400/GeographicalSalesAnalysis?publish=yes)
 
 **Usage:**
 
