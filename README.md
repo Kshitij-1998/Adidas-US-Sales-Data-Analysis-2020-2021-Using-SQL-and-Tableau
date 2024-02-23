@@ -43,6 +43,8 @@ Sales Timeline Analysis:
 * Bar chart divided by sales method for product sales for each month (Jan 2020 to Dec 2021)
 * Line Graph to show the pattern of sales over time between January 2020 to December 2021
 * Overall sales for each state
+
+
 [Dashboard Link](https://public.tableau.com/app/profile/kshitij.tiwari4082/viz/Adidas_Sales_Analysis_17085614917400/SalesAnalysis)
 
 Profit & Geographical Sales Dashboard:
