@@ -31,6 +31,30 @@ The SQL scripts in this repository perform various analyses on the Adidas US sal
 * Yearly and monthly sales analysis
 * Evaluation of sales performance in August, including top-selling products, best-performing retailers, and preferred sales methods
 
+**Tableau Dashboards:**
+
+This repository also includes two Tableau dashboards providing visualisations and insights derived from the US sales dataset. The dashboard offers interactive charts and graphs to explore sales trends, profitability, and geographical patterns. 
+
+Sales Timeline Analysis:
+* Bubble chart for sales by each retailer
+* Stacked bar chart for sales by each retailer for 2020 and 2021
+* Pie Chart for sales method
+* Bar graph for profit earned from each product, with division by sales method
+* Bar chart divided by sales method for product sales for each month (Jan 2020 to Dec 2021)
+* Line Graph to show the pattern of sales over time between January, 2020 to December, 2021
+* Overall sales for each state
+
+
+Profit & Geographical Sales Dashboard:
+* Bubble chart for sales by region
+* Horizontal bar chart for sales by product
+* Bar graph for profit earned from each product, with division by sales method
+* Overall sales for each state
+* Product sales in the top 10 states, divided by product
+* Product sales in the top 10 cities, divided by product
+
+Tableau Dashboards
+
 **Usage:**
 
 To use these SQL scripts, follow these steps:
