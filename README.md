@@ -35,7 +35,7 @@ The SQL scripts in this repository perform various analyses on the Adidas US sal
 
 This repository also includes two Tableau dashboards providing visualisations and insights derived from the US sales dataset. The dashboard offers interactive charts and graphs to explore sales trends, profitability, and geographical patterns. 
 
-Sales Timeline Analysis:
+*Sales Timeline Analysis:*
 * Bubble chart for sales by each retailer
 * Stacked bar chart for sales by each retailer for 2020 and 2021
 * Pie Chart for sales method
@@ -47,7 +47,7 @@ Sales Timeline Analysis:
 
 [Dashboard Link](https://public.tableau.com/app/profile/kshitij.tiwari4082/viz/Adidas_Sales_Analysis_17085614917400/SalesAnalysis)
 
-Profit & Geographical Sales Dashboard:
+*Profit & Geographical Sales Dashboard:*
 * Bubble chart for sales by region
 * Bar graph showing overall sales for each US state
 * Horizontal bar chart for sales by product type
